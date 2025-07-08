@@ -1,3 +1,7 @@
 public class Demo {
-    System.out.println("HI i am Develop");
+
+    void dev(){
+        System.out.println("HI i am jeshwanth , DEV 1");
+    }
+
 }
