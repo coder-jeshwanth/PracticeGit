@@ -8,6 +8,7 @@ public class Demo {
     void krishna(){
 
        System.out.println("This is Krishna");
+       System.out.println("Testing");
     }
 
 }
