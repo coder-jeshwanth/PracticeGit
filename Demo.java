@@ -4,4 +4,10 @@ public class Demo {
         System.out.println("This is the develop branch");
     }
 
+
+    void krishna(){
+
+       System.out.println("This is Krishna");
+    }
+
 }
